@@ -1,3 +1,3 @@
 # servletjspbasicproject
 
-#servlet ve jsp kullanarak basit bir bilet otomasyon sistemi 
+servlet ve jsp kullanarak basit bir bilet otomasyon sistemi 
